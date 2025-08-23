@@ -1,6 +1,6 @@
 ## Hi im ace
-- Systems Administrator at a small company in New York City
-- Aspiring backend developer
+- Systems Administrator in New York City
+- Aspiring System/Network engineer
 - Currently balancing college sometimes full-time and sometimes part-time.
 - Proudly from Haiti 🇭🇹
 - Passionate about contributing to open source projects, inspired by the collaborative spirit of the community
