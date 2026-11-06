@@ -4,17 +4,30 @@
 - Currently balancing college 
 - Passionate about contributing to open source projects, inspired by the collaborative spirit of the community
 
-  
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/acesley) 
+<h3 id="programming-languages">Programming languages:</h3>
+<p> 
+<img src="https://img.shields.io/badge/-GO-000?&amp;logo=Go" alt="GO">
+<img src="https://img.shields.io/badge/-Bash-000?&amp;logo=GNU-Bash" alt="Bash">
+<img src="https://img.shields.io/badge/-Python-000?&amp;logo=Python" alt="Python">
 
-# 📊 GitHub Stats:<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=acesley&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://nirzak-streak-stats.vercel.app/?user=acesley&theme=dark&hide_border=false)<br/>
+<h3 id="frontend-development">Frontend development:</h3>
+<p> 
+<img src="https://img.shields.io/badge/-CSS-000?&amp;logo=CSS3" alt="CSS">
+<img src="https://img.shields.io/badge/-HTML-000?&amp;logo=HTML5" alt="HTML">
+<img src="https://img.shields.io/badge/-JavaScript-000?&amp;logo=JavaScript" alt="JavaScript">
 
+<h3 id="misc-tools">Misc tools:</h3>
+<p> 
+<img src="https://img.shields.io/badge/-Git-000?&amp;logo=Git" alt="Git">
+<img src="https://img.shields.io/badge/-GitHub-000?&amp;logo=GitHub" alt="GitHub">
+<img src="https://img.shields.io/badge/-Docker-000?&amp;logo=Docker" alt="Docker">
+<img src="https://img.shields.io/badge/-Postman-000?&amp;logo=Postman" alt="Postman"></p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<h3 id="databases">Databases:</h3>
+<p> 
+<img src="https://img.shields.io/badge/-Redis-000?&amp;logo=MariaDB" alt="MariaDB">
+<img src="https://img.shields.io/badge/-SQLite-000?&amp;logo=SQLite" alt="SQLite"></p>
+
 
 
 ### 🔝 Top Contributed Repo
