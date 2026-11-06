@@ -22,10 +22,11 @@
 <img src="https://img.shields.io/badge/-GitHub-000?&amp;logo=GitHub" alt="GitHub">
 <img src="https://img.shields.io/badge/-Docker-000?&amp;logo=Docker" alt="Docker">
 <img src="https://img.shields.io/badge/-Postman-000?&amp;logo=Postman" alt="Postman"></p>
+![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
 
 <h3 id="databases">Databases:</h3>
 <p> 
-<img src="[https://img.shields.io/badge/-Redis-000?&amp;logo=MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)" alt="MariaDB">
+![MariaDB](https://img.shields.io/badge/MariaDB-%23003545.svg?style=for-the-badge&logo=mariadb&logoColor=white)
 <img src="https://img.shields.io/badge/-SQLite-000?&amp;logo=SQLite" alt="SQLite"></p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
