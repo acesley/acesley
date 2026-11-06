@@ -9,8 +9,8 @@
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/acesley) 
 
 # 📊 GitHub Stats:<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=teccsley&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://nirzak-streak-stats.vercel.app/?user=teccsley&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=acesley&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://nirzak-streak-stats.vercel.app/?user=acesley&theme=dark&hide_border=false)<br/>
 
 
 # 💻 Tech Stack:
