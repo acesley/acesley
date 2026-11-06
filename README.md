@@ -13,10 +13,9 @@
 
 <h3 id="programming-languages">Programming languages:</h3>
 <p>
-<img height="40" src="https://img.shields.io/badge/-GO-000?&amp;logo=Go&amp;style=for-the-badge" alt="GO">
 <img height="40" src="https://img.shields.io/badge/-Bash-000?&amp;logo=GNU-Bash&amp;style=for-the-badge" alt="Bash">
 <img height="40" src="https://img.shields.io/badge/-Python-000?&amp;logo=Python&amp;style=for-the-badge" alt="Python">
-<img height="40" src="https://img.shields.io/badge/-PowerShell-000?&amp;logo=powershell&amp;style=for-the-badge" alt="PowerShell">
+<img height="40" src="https://img.shields.io/badge/-PowerShell-000?&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZD0iTTUgM2gxOGwtNCAxOEgxeiIgZmlsbD0iIzUzOTFGRSIvPjxwYXRoIGQ9Ik02LjUgN2w2IDUtOCA1IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmYiIHN0cm9rZS13aWR0aD0iMi4yIiBzdHJva2UtbGluZWNhcD0icm91bmQiIHN0cm9rZS1saW5lam9pbj0icm91bmQiLz48cGF0aCBkPSJNMTEgMTdoNSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIi8%2BPC9zdmc%2B&amp;style=for-the-badge" alt="PowerShell">
 </p>
 
 <h3 id="microsoft">Microsoft &amp; identity:</h3>
