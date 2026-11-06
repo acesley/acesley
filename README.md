@@ -1,4 +1,4 @@
-## Hi im ace
+## Hello! Im Ace (Kensley) / Bonjour, je suis Kensley / Bonjou, non mwen se Kensley
 - Systems Administrator in New York City
 - Aspiring System/Network engineer
 - Information Science Major (4th year)
