@@ -1,8 +1,14 @@
-## Hello! Im Kensley / Bonjour, je suis Kensley / Bonjou, non mwen se Kensley
+## Hello! I'm Kensley / Bonjour, je suis Kensley / Bonjou, non mwen se Kensley
 - Systems Administrator in New York City
 - Aspiring System/Network engineer
 - Information Science Major (4th year)
 - Passionate about contributing to open source projects, inspired by the collaborative spirit of the community. Power to the people!
+
+<h3 id="certifications">Certifications:</h3>
+<p>
+<img src="https://img.shields.io/badge/-Network%2B-000?&amp;logo=CompTIA&amp;style=for-the-badge" alt="CompTIA Network+">
+<img src="https://img.shields.io/badge/-Security%2B-000?&amp;logo=CompTIA&amp;style=for-the-badge" alt="CompTIA Security+">
+</p>
 
 <h3 id="programming-languages">Programming languages:</h3>
 <p>
