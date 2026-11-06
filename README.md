@@ -6,7 +6,7 @@
 
   
 ## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/teccsley) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/acesley) 
 
 # 📊 GitHub Stats:<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=teccsley&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
