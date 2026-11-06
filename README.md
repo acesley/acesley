@@ -1,5 +1,5 @@
 ## Hello! I'm Kensley / Bonjour, je suis Kensley / Bonjou, non mwen se Kensley
-- Systems Administrator in New York City
+- IT Professional in New York City
 - Aspiring System/Network engineer
 - Information Science Major (4th year)
 - Passionate about contributing to open source projects, inspired by the collaborative spirit of the community. Power to the people!
@@ -16,13 +16,13 @@
 <img height="40" src="https://img.shields.io/badge/-GO-000?&amp;logo=Go&amp;style=for-the-badge" alt="GO">
 <img height="40" src="https://img.shields.io/badge/-Bash-000?&amp;logo=GNU-Bash&amp;style=for-the-badge" alt="Bash">
 <img height="40" src="https://img.shields.io/badge/-Python-000?&amp;logo=Python&amp;style=for-the-badge" alt="Python">
+<img height="40" src="https://img.shields.io/badge/-PowerShell-000?&amp;logo=powershell&amp;style=for-the-badge" alt="PowerShell">
 </p>
 
-<h3 id="frontend-development">Frontend development:</h3>
+<h3 id="microsoft">Microsoft &amp; identity:</h3>
 <p>
-<img height="40" src="https://img.shields.io/badge/-CSS-000?&amp;logo=css&amp;style=for-the-badge" alt="CSS">
-<img height="40" src="https://img.shields.io/badge/-HTML-000?&amp;logo=HTML5&amp;style=for-the-badge" alt="HTML">
-<img height="40" src="https://img.shields.io/badge/-JavaScript-000?&amp;logo=JavaScript&amp;style=for-the-badge" alt="JavaScript">
+<img height="40" src="https://img.shields.io/badge/-Microsoft_365-000?&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMSIgeT0iMSIgd2lkdGg9IjEwLjUiIGhlaWdodD0iMTAuNSIgZmlsbD0iI0YyNTAyMiIvPjxyZWN0IHg9IjEyLjUiIHk9IjEiIHdpZHRoPSIxMC41IiBoZWlnaHQ9IjEwLjUiIGZpbGw9IiM3RkJBMDAiLz48cmVjdCB4PSIxIiB5PSIxMi41IiB3aWR0aD0iMTAuNSIgaGVpZ2h0PSIxMC41IiBmaWxsPSIjMDBBNEVGIi8%2BPHJlY3QgeD0iMTIuNSIgeT0iMTIuNSIgd2lkdGg9IjEwLjUiIGhlaWdodD0iMTAuNSIgZmlsbD0iI0ZGQjkwMCIvPjwvc3ZnPg%3D%3D&amp;style=for-the-badge" alt="Microsoft 365">
+<img height="40" src="https://img.shields.io/badge/-Active_Directory-000?&amp;logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMSIgeT0iMSIgd2lkdGg9IjEwLjUiIGhlaWdodD0iMTAuNSIgZmlsbD0iI0YyNTAyMiIvPjxyZWN0IHg9IjEyLjUiIHk9IjEiIHdpZHRoPSIxMC41IiBoZWlnaHQ9IjEwLjUiIGZpbGw9IiM3RkJBMDAiLz48cmVjdCB4PSIxIiB5PSIxMi41IiB3aWR0aD0iMTAuNSIgaGVpZ2h0PSIxMC41IiBmaWxsPSIjMDBBNEVGIi8%2BPHJlY3QgeD0iMTIuNSIgeT0iMTIuNSIgd2lkdGg9IjEwLjUiIGhlaWdodD0iMTAuNSIgZmlsbD0iI0ZGQjkwMCIvPjwvc3ZnPg%3D%3D&amp;style=for-the-badge" alt="Active Directory">
 </p>
 
 <h3 id="systems-virtualization">Systems &amp; virtualization:</h3>
