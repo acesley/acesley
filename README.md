@@ -1,8 +1,8 @@
 ## Hi im ace
 - Systems Administrator in New York City
 - Aspiring System/Network engineer
-- Currently balancing college 
-- Passionate about contributing to open source projects, inspired by the collaborative spirit of the community
+- Information Science Major (4th year)
+- Passionate about contributing to open source projects, inspired by the collaborative spirit of the community. Power to the people!
 
 <h3 id="programming-languages">Programming languages:</h3>
 <p> 
