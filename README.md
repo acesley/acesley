@@ -2,7 +2,7 @@
 - IT Professional in New York City
 - Aspiring System/Network engineer
 - Information Science Major (4th year)
-- Passionate about contributing to open source projects, inspired by the collaborative spirit of the community. Power to the people!
+- Power to the people!
 
 <h3 id="certifications">Certifications:</h3>
 <p>
