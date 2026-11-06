@@ -25,7 +25,7 @@
 
 <h3 id="databases">Databases:</h3>
 <p> 
-<img src="https://img.shields.io/badge/-Redis-000?&amp;logo=MariaDB" alt="MariaDB">
+<img src="[https://img.shields.io/badge/-Redis-000?&amp;logo=MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)" alt="MariaDB">
 <img src="https://img.shields.io/badge/-SQLite-000?&amp;logo=SQLite" alt="SQLite"></p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
